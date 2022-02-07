@@ -14,6 +14,7 @@ Pros
 -  Most popular host
 -  Lots of documentation
 -  Tons of services (like EC2, RDS, S3) to leverage
+
 Cons
 - Stuck in AWS land
 
